@@ -1,5 +1,5 @@
 #!/bin/sh
-# wrapper script, launch proof-general in clean environment
+# wrapper script, launch proof-general in clean emacs
 # preferentially use Aquamacs, then Emacs for OS X, finally fall back
 # to first emacs on the PATH
 
